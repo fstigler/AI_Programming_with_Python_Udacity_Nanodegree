@@ -1,0 +1,22 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+['dog', '02.jpg']
+Filename =  dog_02.jpg    Pet Label =  dog
+['monkey.jpg']
+Filename =  dog_02.jpg    Pet Label =  dog
+Filename =  monkey.jpg    Pet Label =  ['monkey.jpg']
+['dog', '01.jpg']
+Filename =  dog_02.jpg    Pet Label =  dog
+Filename =  monkey.jpg    Pet Label =  ['monkey.jpg']
+Filename =  dog_01.jpg    Pet Label =  dog
+['coffee', 'mug.jpg']
+Filename =  dog_02.jpg    Pet Label =  dog
+Filename =  monkey.jpg    Pet Label =  ['monkey.jpg']
+Filename =  dog_01.jpg    Pet Label =  dog
+Filename =  coffee_mug.jpg    Pet Label =  coffee
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:                     dog_02.jpg  label:                        dog
