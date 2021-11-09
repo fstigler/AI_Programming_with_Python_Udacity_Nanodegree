@@ -1,5 +1,5 @@
 # AI Programming with Python Udacity Nanodegree
-Learn AI Fundamentals. Learn the essential foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
+![udacity-logo-vector](https://user-images.githubusercontent.com/16072216/140942636-2003836a-176f-405c-a304-899b98fca600.jpg)
 
 ## Overview
 This program focuses on the fundamental building blocks you will need to learn in order to become an AI practitioner. Specifically, you will learn programming skills, and essential math for building an AI architecture. You’ll even dive into neural networks and deep learning. One of our main goals at Udacity is to help you create a job-ready portfolio. Building a project is one of the best ways to test the skills you’ve acquired, and to demonstrate your newfound abilities to prospective employers. In this Nanodegree program you will test your ability to use a pre-trained neural network architecture, and also have the opportunity to prove your skills by building your own image classifier. In the sections below, you’ll find detailed descriptions of the projects, along with the course material that presents the skills required to complete them. 
